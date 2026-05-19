@@ -1,0 +1,8 @@
+
+public class Nano {
+	public static void main(String[] args) {
+		
+		System.out.println();
+	}
+
+}
